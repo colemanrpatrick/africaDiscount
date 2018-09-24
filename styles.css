@@ -793,9 +793,9 @@ body.active::after{
   border: 0.5em solid #89170C;
 }
 #article_img_second{
-  background-image: url("images/Capture.PNG");
+  background-image: url("images/IMG_0081.JPG");
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   border: 0.5em solid #89170C;
 }
 .article-section section article span{
