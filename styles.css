@@ -1004,6 +1004,7 @@ body.active::after{
 #b54,
 #b55{
   cursor: pointer;
+  vertical-align: top;
 }
 #b51:hover span,
 #b52:hover span,
