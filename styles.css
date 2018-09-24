@@ -301,13 +301,13 @@ button:focus{
   height: 100%;
   margin: 0 auto;
   position: relative;
-  background-image: url("images/IMG_1541.jpg");
+  background-image: url("images/IMG_1541.JPG");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
 .banner::before{
-  background-image: url("images/IMG_1541.jpg");
+  background-image: url("images/IMG_1541.JPG");
   background-size: 100%;
   opacity: 0.74;
   background-position: center;
@@ -787,13 +787,13 @@ body.active::after{
   width: 50%;
 }
 #article_img_first{
-  background-image: url("images/safariDriver.jpg");
+  background-image: url("images/safariDriver.JPG");
   background-size: cover;
   background-position: center;
   border: 0.5em solid #89170C;
 }
 #article_img_second{
-  background-image: url("images/capture.png");
+  background-image: url("images/Capture.PNG");
   background-size: cover;
   background-position: center;
   border: 0.5em solid #89170C;
